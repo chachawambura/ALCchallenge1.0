@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALCLearningChallenge1.0</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="my_profile">My profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="paul_chacha_wambura">Paul Chacha Wambura</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_kenya">Country: Kenya</string>
+    <string name="email_paulwambura_gmail_com">Email: paulwambura@gmail.com</string>
+    <string name="phone_number_254716139670">Phone Number: +254716139670</string>
+    <string name="slack_username_chachawambura">Slack Username: @chachawambura</string>
+</resources>
